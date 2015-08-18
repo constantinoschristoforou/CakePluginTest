@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/Cakephptestplugin",
+    "name": "constantinos/cakephptestplugin",
     "description": "Cakephptestplugin plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
